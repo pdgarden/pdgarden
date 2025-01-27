@@ -1,16 +1,13 @@
-## Hi there 👋
+Data Scientist focused in statistical modeling, machine learning, and data-driven applications.
 
-<!--
-**pdgarden/pdgarden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Core Skills
 
-Here are some ideas to get you started:
+- Data Analysis: Python, data visualization
+- Development: Backend applications (FastAPI), interactive dashboards
+- Statistical modeling, Machine learning, Deep learning, Bayesian methods
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Featured Projects
+
+- NBA Analytics Suite: Statistical analysis platform for player and team performance. Data extracted from local datawarehouse based on DBT / DuckDB 
+- Doctolib Availability Tracker: Real-time appointment monitoring system
+- Recipe Recommendation Engine: ML-based personalized recipe suggestion system
