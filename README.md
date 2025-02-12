@@ -1,13 +1,13 @@
 Data Scientist focused in statistical modeling, machine learning, and data-driven applications.
 
-💻 Core Skills
+## Core Skills
 
 - Data Analysis: Python, data visualization
-- Development: Backend applications (FastAPI), interactive dashboards
 - Statistical modeling, Machine learning, Deep learning, Bayesian methods
+- Development: Backend applications (FastAPI), interactive dashboards
+- Production grade deployment: Cloud environment, best practices like CI/CD, unit tests, Semver, etc.
 
-🚀 Featured Projects
+## Featured Projects
 
-- NBA Analytics Suite: Statistical analysis platform for player and team performance. Data extracted from local datawarehouse based on DBT / DuckDB 
-- Doctolib Availability Tracker: Real-time appointment monitoring system
-- Recipe Recommendation Engine: ML-based personalized recipe suggestion system
+- NBA Analytics Suite: Statistical analysis platform for player and team performance ([example](https://pdgarden.github.io/nba-stats-eda/eda_nba_players_accuracy_evolution.html)). Data extracted from local datawarehouse based on DBT / DuckDB ([repo](https://github.com/pdgarden/nba-stats)). 
+- Recipe Recommendation Engine: ML-based personalized recipe suggestion system leveraging LLM, sentence embedding, similarity search and KNN.
