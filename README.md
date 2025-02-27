@@ -4,7 +4,7 @@ Data Scientist focused on statistical modeling, machine learning, and data-drive
 
 - Data Analysis: Python, data visualization.
 - Statistical modeling, Machine learning, Deep learning, Bayesian methods.
-- Development: Backend applications (FastAPI), interactive dashboards.
+- NLP and Generative AI
 - Production grade deployment: Cloud environment, best practices like CI/CD, unit tests, git versioning, etc.
 
 ## Featured Projects
