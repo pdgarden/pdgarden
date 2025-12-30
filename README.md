@@ -1,4 +1,4 @@
-Data Scientist focused on statistical modeling, machine learning, and data-driven applications.
+Machine learning engineer focused on generative AI, statistical modeling, machine learning, and data-driven applications.
 
 ## Core Skills
 
@@ -9,6 +9,10 @@ Data Scientist focused on statistical modeling, machine learning, and data-drive
 
 ## Featured Projects
 
-- NBA Analytics Suite: Statistical analysis platform for player and team performance ([example](https://pdgarden.github.io/nba-stats-eda/eda_nba_players_accuracy_evolution.html)). Data extracted from local datawarehouse based on DBT / DuckDB ([repo](https://github.com/pdgarden/nba-stats)). An engine was implemented to convert questions in natural language to SQL queries that are executed on the datawarehouse by leveraging LLMs ([repo](https://github.com/pdgarden/nba-insights-engine)). 
+- NBA Analytics Suite:
+  - Statistical analysis platform for player and team performance ([example](https://pdgarden.github.io/nba-stats-eda/eda_nba_players_accuracy_evolution.html)).
+  - Local datawarehouse based on DBT / DuckDB to model nba stats ([repo](https://github.com/pdgarden/nba-stats)).
+  - Chatbot leveraging LLMs to interact with the local datawarehouse ([repo](https://github.com/pdgarden/nba-insights-engine)).
+  - Fine tuning of LLM to improve performances on NBA teams and players recognition: [repo](https://github.com/pdgarden/ner-llm-finetuning) 
 - Recipe Recommendation Engine: ML-based personalized recipe suggestion system ([repo](https://github.com/pdgarden/recipe-recommender-system)) leveraging LLM, sentence embedding, similarity search and KNN (see [approach](https://pdgarden.github.io/recipe-recommender-system/eda/eda_recipe_recommendations.html)).
 - Other: Check github profile.
